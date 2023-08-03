@@ -1,0 +1,77 @@
+[
+	{
+		"tech": "js",
+		"name": "JavaScript",
+		"image": "https://cdn.svgporn.com/logos/javascript.svg"
+	},
+	{
+		"tech": "ts",
+		"name": "TypeScript",
+		"image": "https://cdn.svgporn.com/logos/typescript-icon.svg"
+	},
+	{
+		"tech": "node",
+		"name": "NodeJS",
+		"image": "https://cdn.svgporn.com/logos/nodejs-icon.svg"
+	},
+	{
+		"tech": "nest",
+		"name": "NestJS",
+		"image": "https://cdn.svgporn.com/logos/nestjs.svg"
+	},
+	{
+		"tech": "graphql",
+		"name": "GraphQL",
+		"image": "https://cdn.svgporn.com/logos/graphql.svg"
+	},
+	{
+		"tech": "svelte",
+		"name": "Svelte",
+		"image": "https://cdn.svgporn.com/logos/svelte-icon.svg"
+	},
+	{
+		"tech": "vue",
+		"name": "VueJS",
+		"image": "https://cdn.svgporn.com/logos/vue.svg"
+	},
+	{
+		"tech": "wordpress",
+		"name": "WordPress",
+		"image": "https://cdn.svgporn.com/logos/wordpress-icon.svg"
+	},
+	{
+		"tech": "docker",
+		"name": "Docker",
+		"image": "https://cdn.svgporn.com/logos/docker-icon.svg"
+	},
+	{
+		"tech": "tailwindcss",
+		"name": "TailwindCSS",
+		"image": "https://cdn.svgporn.com/logos/tailwindcss-icon.svg"
+	},
+	{
+		"tech": "prisma",
+		"name": "Prisma",
+		"image": "https://cdn.svgporn.com/logos/prisma.svg"
+	},
+	{
+		"tech": "mongodb",
+		"name": "Mongodb",
+		"image": "https://cdn.svgporn.com/logos/mongodb-icon.svg"
+	},
+	{
+		"tech": "mysql",
+		"name": "Mysql",
+		"image": "https://cdn.svgporn.com/logos/mysql-icon.svg"
+	},
+	{
+		"tech": "redis",
+		"name": "Redis",
+		"image": "https://cdn.svgporn.com/logos/redis.svg"
+	},
+	{
+		"tech": "git",
+		"name": "GIT",
+		"image": "https://cdn.svgporn.com/logos/git-icon.svg"
+	}
+]
