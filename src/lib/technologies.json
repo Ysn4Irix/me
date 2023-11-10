@@ -15,19 +15,19 @@
 		"image": "https://cdn.svgporn.com/logos/nodejs-icon.svg"
 	},
 	{
-		"tech": "nest",
-		"name": "NestJS",
-		"image": "https://cdn.svgporn.com/logos/nestjs.svg"
-	},
-	{
-		"tech": "graphql",
-		"name": "GraphQL",
-		"image": "https://cdn.svgporn.com/logos/graphql.svg"
+		"tech": "nextjs",
+		"name": "NextJS",
+		"image": "https://cdn.svgporn.com/logos/nextjs-icon.svg"
 	},
 	{
 		"tech": "svelte",
 		"name": "Svelte",
 		"image": "https://cdn.svgporn.com/logos/svelte-icon.svg"
+	},
+	{
+		"tech": "graphql",
+		"name": "GraphQL",
+		"image": "https://cdn.svgporn.com/logos/graphql.svg"
 	},
 	{
 		"tech": "vue",

@@ -1,6 +1,6 @@
 {
 	"name": "me",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "My simple personnel portfolio website built with SvelteKit and TailwindCSS",
 	"private": true,
 	"scripts": {

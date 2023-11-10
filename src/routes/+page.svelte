@@ -137,12 +137,12 @@
 	<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
 		{#each data.pinnedRepos as project}
 			<Card
-				name={project.repo}
+				name={project.name}
 				description={project.description}
-				link={project.link}
-				demo={project.website}
-				language={project.language}
-				languageColor={project.languageColor}
+				link={project.repo}
+				demo={project.demo}
+				language={project.language.name}
+				languageColor={project.language.color}
 			/>
 		{/each}
 	</div>
