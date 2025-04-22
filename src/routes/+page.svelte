@@ -17,7 +17,7 @@
 			<img
 				crossorigin="anonymous"
 				class="rounded-xl w-full shadow-xl"
-				src="https://files.ysnirix.xyz/me.1690904022576.png"
+				src="https://res.cloudinary.com/ydevcloud/image/upload/v1745353869/YsnIrix/t93tmoruxgdiyvwql2o9.png"
 				alt="me"
 			/>
 
